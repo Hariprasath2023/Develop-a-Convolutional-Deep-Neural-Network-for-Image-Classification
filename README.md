@@ -41,9 +41,9 @@ Test the model with a new image and display the actual and predicted class label
 
 ## PROGRAM
 
-### Name: Jothi Ganesh P
+### Name: Hari prasath RK
 
-### Register Number:212224240065
+### Register Number:212223040055
 
 ```python
 import torch
